@@ -1,0 +1,14 @@
+C:\Users\USER\cse210-projects\week01\csharp-1\bin\Debug\net9.0\csharp-1.exe
+C:\Users\USER\cse210-projects\week01\csharp-1\bin\Debug\net9.0\csharp-1.deps.json
+C:\Users\USER\cse210-projects\week01\csharp-1\bin\Debug\net9.0\csharp-1.runtimeconfig.json
+C:\Users\USER\cse210-projects\week01\csharp-1\bin\Debug\net9.0\csharp-1.dll
+C:\Users\USER\cse210-projects\week01\csharp-1\bin\Debug\net9.0\csharp-1.pdb
+C:\Users\USER\cse210-projects\week01\csharp-1\obj\Debug\net9.0\csharp-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\cse210-projects\week01\csharp-1\obj\Debug\net9.0\csharp-1.AssemblyInfoInputs.cache
+C:\Users\USER\cse210-projects\week01\csharp-1\obj\Debug\net9.0\csharp-1.AssemblyInfo.cs
+C:\Users\USER\cse210-projects\week01\csharp-1\obj\Debug\net9.0\csharp-1.csproj.CoreCompileInputs.cache
+C:\Users\USER\cse210-projects\week01\csharp-1\obj\Debug\net9.0\csharp-1.dll
+C:\Users\USER\cse210-projects\week01\csharp-1\obj\Debug\net9.0\refint\csharp-1.dll
+C:\Users\USER\cse210-projects\week01\csharp-1\obj\Debug\net9.0\csharp-1.pdb
+C:\Users\USER\cse210-projects\week01\csharp-1\obj\Debug\net9.0\csharp-1.genruntimeconfig.cache
+C:\Users\USER\cse210-projects\week01\csharp-1\obj\Debug\net9.0\ref\csharp-1.dll

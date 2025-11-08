@@ -1,0 +1,14 @@
+C:\Users\USER\cse210-projects\week01\csharp-4\obj\Debug\net9.0\csharp-4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\cse210-projects\week01\csharp-4\obj\Debug\net9.0\csharp-4.AssemblyInfoInputs.cache
+C:\Users\USER\cse210-projects\week01\csharp-4\obj\Debug\net9.0\csharp-4.AssemblyInfo.cs
+C:\Users\USER\cse210-projects\week01\csharp-4\obj\Debug\net9.0\csharp-4.csproj.CoreCompileInputs.cache
+C:\Users\USER\cse210-projects\week01\csharp-4\bin\Debug\net9.0\csharp-4.exe
+C:\Users\USER\cse210-projects\week01\csharp-4\bin\Debug\net9.0\csharp-4.deps.json
+C:\Users\USER\cse210-projects\week01\csharp-4\bin\Debug\net9.0\csharp-4.runtimeconfig.json
+C:\Users\USER\cse210-projects\week01\csharp-4\bin\Debug\net9.0\csharp-4.dll
+C:\Users\USER\cse210-projects\week01\csharp-4\bin\Debug\net9.0\csharp-4.pdb
+C:\Users\USER\cse210-projects\week01\csharp-4\obj\Debug\net9.0\csharp-4.dll
+C:\Users\USER\cse210-projects\week01\csharp-4\obj\Debug\net9.0\refint\csharp-4.dll
+C:\Users\USER\cse210-projects\week01\csharp-4\obj\Debug\net9.0\csharp-4.pdb
+C:\Users\USER\cse210-projects\week01\csharp-4\obj\Debug\net9.0\csharp-4.genruntimeconfig.cache
+C:\Users\USER\cse210-projects\week01\csharp-4\obj\Debug\net9.0\ref\csharp-4.dll
