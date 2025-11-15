@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\USER\\cse210-projects\\Fraction\\Fraction.csproj",
-      "projectName": "Fraction",
-      "projectPath": "C:\\Users\\USER\\cse210-projects\\Fraction\\Fraction.csproj",
+      "projectUniqueName": "c:\\Users\\USER\\cse210-projects\\week04\\OnlineOrdering\\OnlineOrdering.csproj",
+      "projectName": "OnlineOrdering",
+      "projectPath": "c:\\Users\\USER\\cse210-projects\\week04\\OnlineOrdering\\OnlineOrdering.csproj",
       "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\USER\\cse210-projects\\Fraction\\obj\\",
+      "outputPath": "c:\\Users\\USER\\cse210-projects\\week04\\OnlineOrdering\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config"
